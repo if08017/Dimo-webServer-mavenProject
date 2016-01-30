@@ -1,4 +1,4 @@
-package ec2-52-77-232-42.ap-southeast-1.compute.amazonaws.com;
+package com.ec2-52-77-232-42.ap-southeast-1.compute.amazonaws;
  
 public class App{
     
