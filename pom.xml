@@ -1,32 +1,7 @@
 <project>
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.ec2-52-77-232-42.ap-southeast-1.compute.amazonaws</groupId>
-  <artifactId>belajar-maven</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
-  <name>belajar-maven</name>
-  <url>http://maven.apache.org</url>
-  
-  <build>
-      <plugins>
-          <plugin>
-              <groupId>org.apache.maven.plugins</groupId>
-              <artifactId>maven-compiler-plugin</artifactId>
-              <version>3.0.5</version>
-              <configuration>
-                  <source>1.6</source>
-                  <target>1.6</target>
-              </configuration>
-          </plugin>
-      </plugins>
-  </build>
-  
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
+    <groupId>com.finzaiko</groupId>
+    <artifactId>HelloWold</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
 </project>
