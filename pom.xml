@@ -1,5 +1,5 @@
 <project>
-    <groupId>com.ec2-52-77-232-42.ap-southeast-1.compute.amazonaws</groupId>
+    <groupId>com.if08017</groupId>
     <artifactId>HelloWold</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
